@@ -1,0 +1,16 @@
+{
+    "db_hostname": "localhost",
+    "db_username": "root",
+    "db_password": "ZXasqw12#",
+    "db_dbname": "playtube",
+    "site_url": "https:\/\/px24.pl",
+    "server_ip": "217.182.75.102",
+    "server_port": 4545,
+    "amazon": true,
+    "amazon_bucket": "ccs24dev",
+    "nodejs_message_update_interval": 500,
+    "ajax_message_update_interval": 3000,
+    "ssl": false,
+    "ssl_privatekey_full_path": "",
+    "ssl_cert_full_path": ""
+}
